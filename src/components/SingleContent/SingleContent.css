@@ -6,10 +6,11 @@
   width: 200px;
   padding: 5px;
   margin: 5px 0;
-  background-color: #1f232c;
-  border-radius: 15px;
+  /* background-color: #1f232c; */
+  background-color: #060505;
+  border-radius: 5px;
   position: relative;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .media:hover {

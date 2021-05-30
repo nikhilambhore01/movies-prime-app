@@ -22,7 +22,8 @@
   text-transform: uppercase;
   display: flex;
   justify-content: center;
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 2vw;
   padding: 4px;
   border-radius: 50px;
