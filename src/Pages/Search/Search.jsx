@@ -26,7 +26,8 @@ const Search = () => {
     palette: {
       type: 'dark',
       primary: {
-        main: '#fff',
+        main: '#39445a',
+        backgroundColor: '#39445a',
       },
     },
   });

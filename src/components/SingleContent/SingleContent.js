@@ -16,6 +16,10 @@ const SingleContent = ({
   return (
     <ContentModal media_type={media_type} id={id}>
       <Badge
+        anchorOrigin={{
+          vertical: 'top',
+          horizontal: 'left',
+        }}
         badgeContent={vote_average}
         color={vote_average > 6 ? 'primary' : 'secondary'}
       />

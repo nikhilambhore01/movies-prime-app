@@ -12,10 +12,12 @@ import { useHistory } from 'react-router-dom';
 
 const useStyles = makeStyles({
   root: {
-    width: '100%',
+    width: '50%',
     position: 'fixed',
     bottom: 0,
-    backgroundColor: '#060505',
+    left: '25%',
+    backgroundColor: '#403d39',
+    opacity: 0.59,
     zIndex: 100,
   },
 });

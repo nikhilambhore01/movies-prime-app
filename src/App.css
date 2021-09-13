@@ -5,9 +5,8 @@
 
 .app {
   min-height: 100vh;
-  /* background-color: #39445a; */
-  background-color: #8e9aaf;
-  color: white;
+  background-color: #7e8aa5;
+  color: rgb(83, 80, 80);
   padding-top: 130px;
   padding-bottom: 70px;
 }
@@ -25,9 +24,9 @@
   /* font-family: 'Montserrat', sans-serif; */
   font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 2vw;
-  padding: 4px;
+  padding: 20px;
   border-radius: 50px;
-  color: white;
+  color: rgb(82, 78, 78);
 }
 
 @media (max-width: 1000px) {
