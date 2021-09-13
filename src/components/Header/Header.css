@@ -9,17 +9,15 @@
   justify-content: left;
   padding: 20px;
   font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #2196f3;
+  background-color: #043862;
   font-size: 30px;
-  text-shadow: 2px 2px 5px #c50d07;
+  text-shadow: 2px 2px 5px #f12821;
   color: #dad0d0;
   z-index: 100;
 }
 
 @media (max-width: 1000px) {
   .header {
-    padding: 12px;
-    height: 39px;
-    font-size: 20px;
+    height: 40px;
   }
 }

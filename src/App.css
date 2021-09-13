@@ -23,7 +23,7 @@
   justify-content: center;
   /* font-family: 'Montserrat', sans-serif; */
   font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 2vw;
+  font-size: 5vw;
   padding: 20px;
   border-radius: 50px;
   color: rgb(82, 78, 78);
@@ -32,5 +32,8 @@
 @media (max-width: 1000px) {
   .pageTitle {
     font-size: 6.4vw;
+  }
+  .root {
+    width: 100%;
   }
 }
