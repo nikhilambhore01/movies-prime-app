@@ -1,4 +1,4 @@
-# Demo 
+# Demo for Movies Prime App
 [click here](https://movies-prime-app.netlify.app)
 
 
